@@ -1,0 +1,550 @@
+/* screen - initiatives */
+
+.initiatives {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1398px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.initiatives .gallery-image2-WdddoO {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.initiatives .about-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.initiatives .about-WdddoO:hover {
+  color: #BFE7F5
+}
+
+.initiatives .home-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.initiatives .home-WdddoO:hover {
+  color: #BFE7F5
+}
+
+.initiatives .initiatives-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  width: auto;
+}
+
+.initiatives .classroom-redesign-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  width: auto;
+}
+
+.initiatives .group-21-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.initiatives .group-21-WdddoO:hover {
+  transform: scale(1.1);
+}
+
+.initiatives .rectangle-9-2r2Ial {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.initiatives .contact-us-2r2Ial {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.initiatives .news-and-reports-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  width: auto;
+}
+
+.initiatives .vector-WdddoO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 3.86%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.29%;
+  width: 10.49%;
+}
+
+.initiatives .til2021-logo-1-1-WdddoO {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.initiatives .initiatives-x2MV50 {
+  background-color: transparent;
+  height: auto;
+  left: 629px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.initiatives .line-1-WdddoO {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.initiatives .rectangle-10-WdddoO {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 852px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 323px;
+}
+
+.initiatives .rectangle-17-WdddoO {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 852px;
+  left: 389px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 322px;
+}
+
+.initiatives .rectangle-19-WdddoO {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 852px;
+  left: 731px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 322px;
+}
+
+.initiatives .rectangle-20-WdddoO {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 852px;
+  left: 1072px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 323px;
+}
+
+.initiatives .browse-our-curr-tiatives-at-til-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 467px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 359px;
+  width: auto;
+}
+
+.initiatives .lorem-ipsum-dol-sequat-lobortis-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 433px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 916px;
+  width: 237px;
+}
+
+.initiatives .lorem-ipsum-dol-sequat-lobortis-x2MV50 {
+  background-color: transparent;
+  height: auto;
+  left: 774px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 916px;
+  width: 237px;
+}
+
+.initiatives .lorem-ipsum-dol-sequat-lobortis-grP5dv {
+  background-color: transparent;
+  height: auto;
+  left: 1118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 916px;
+  width: 235px;
+}
+
+.initiatives .lorem-ipsum-dol-sequat-lobortis-Qs0xXS {
+  background-color: transparent;
+  height: auto;
+  left: 91px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 916px;
+  width: 235px;
+}
+
+.initiatives .lsrs-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 518px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 825px;
+  width: 66px;
+}
+
+.initiatives .til-winter-2021-teaching-pilot-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 825px;
+  width: 232px;
+}
+
+.initiatives .tech2-u-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 825px;
+  width: 233px;
+}
+
+.initiatives .past-projects-WdddoO {
+  background-color: transparent;
+  height: auto;
+  left: 1120px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 825px;
+  width: 231px;
+}
+
+.initiatives .origins-of-til-image-WdddoO {
+  background-color: transparent;
+  height: 197px;
+  left: 110px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 550px;
+  width: 197px;
+}
+
+.initiatives .origins-of-til-image-x2MV50 {
+  background-color: transparent;
+  height: 197px;
+  left: 451px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 550px;
+  width: 197px;
+}
+
+.initiatives .origins-of-til-image-grP5dv {
+  background-color: transparent;
+  height: 197px;
+  left: 793px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 550px;
+  width: 197px;
+}
+
+.initiatives .origins-of-til-image-Qs0xXS {
+  background-color: transparent;
+  height: 197px;
+  left: 1135px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 550px;
+  width: 197px;
+}
+
+.initiatives .keyboardarrowright-WdddoO {
+  background-color: transparent;
+  height: 72px;
+  left: 173px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1256px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.initiatives .keyboardarrowright-WdddoO:hover {
+  transform: scale(1.1);
+}
+
+.initiatives .vector-f0qniH {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.initiatives .vector-XbZtGh {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
+
+.initiatives .keyboardarrowright-x2MV50 {
+  background-color: transparent;
+  height: 72px;
+  left: 514px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1256px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.initiatives .keyboardarrowright-x2MV50:hover {
+  transform: scale(1.1);
+}
+
+.initiatives .vector-UTZmCT {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.initiatives .vector-6JhW1R {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
+
+.initiatives .keyboardarrowright-grP5dv {
+  background-color: transparent;
+  height: 72px;
+  left: 856px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1256px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.initiatives .keyboardarrowright-grP5dv:hover {
+  transform: scale(1.1);
+}
+
+.initiatives .vector-LAxcb5 {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.initiatives .vector-g1bsIc {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
+
+.initiatives .keyboardarrowright-Qs0xXS {
+  background-color: transparent;
+  height: 72px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1256px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.initiatives .keyboardarrowright-Qs0xXS:hover {
+  transform: scale(1.1);
+}
+
+.initiatives .vector-O3UovZ {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.initiatives .vector-aTkjqB {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}

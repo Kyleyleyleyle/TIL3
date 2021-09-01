@@ -1,0 +1,365 @@
+/* screen - approach */
+
+.approach {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1227px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.approach .gallery-image2-pzxST3 {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.approach .about-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.approach .about-pzxST3:hover {
+  color: #BFE7F5
+}
+
+.approach .home-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.approach .home-pzxST3:hover {
+  color: #BFE7F5
+}
+
+.approach .initiatives-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.approach .initiatives-pzxST3:hover {
+  color: #BFE7F5
+}
+
+.approach .classroom-redesign-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.approach .classroom-redesign-pzxST3:hover {
+  color: #BFE7F5
+}
+
+.approach .group-21-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.approach .group-21-pzxST3:hover {
+  transform: scale(1.1);
+}
+
+.approach .rectangle-9-oTOgYS {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.approach .contact-us-oTOgYS {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.approach .news-and-reports-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.approach .news-and-reports-pzxST3:hover {
+  color: #BFE7F5
+}
+
+.approach .vector-pzxST3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4.40%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.61%;
+  width: 10.49%;
+}
+
+.approach .til2021-logo-1-1-pzxST3 {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.approach .approach-pzxST3 {
+  background-color: transparent;
+  height: auto;
+  left: 633px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.approach .rectangle-17-pzxST3 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 310px;
+  left: 809px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 429px;
+  width: 477px;
+}
+
+.approach .rectangle-18-pzxST3 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 310px;
+  left: 809px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 779px;
+  width: 477px;
+}
+
+.approach .human-centered-design-pzxST3 {
+  background-color: transparent;
+  height: auto;
+  left: 903px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 663px;
+  width: 292px;
+}
+
+.approach .consultation-pr-cess-journeymap-pzxST3 {
+  background-color: transparent;
+  height: auto;
+  left: 902px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 997px;
+  width: 293px;
+}
+
+.approach .line-1-pzxST3 {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.approach .til-is-composed-rinciples-below-pzxST3 {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 429px;
+  width: 592px;
+}
+
+.approach .progress-pzxST3 {
+  background-color: transparent;
+  height: 203px;
+  left: 943px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 211px;
+}
+
+.approach .progress-jIYl9E {
+  background-color: transparent;
+  height: 202px;
+  left: 943px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 795px;
+  width: 211px;
+}
+
+.approach .keyboardarrowright-pzxST3 {
+  background-color: transparent;
+  height: 72px;
+  left: 1205px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 548px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.approach .keyboardarrowright-pzxST3:hover {
+  transform: scale(1.1);
+}
+
+.approach .vector-VvOywK {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  width: 31.25%;
+}
+
+.approach .vector-AxTh6M {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  width: 0.69%;
+}
+
+.approach .keyboardarrowright-jIYl9E {
+  background-color: transparent;
+  height: 72px;
+  left: 1205px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 898px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.approach .keyboardarrowright-jIYl9E:hover {
+  transform: scale(1.1);
+}
+
+.approach .vector-xQU1w2 {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  width: 31.25%;
+}
+
+.approach .vector-23mIhC {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  width: 0.69%;
+}

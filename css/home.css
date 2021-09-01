@@ -1,0 +1,713 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2811px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home .group-40-xl4bh6 {
+  background-color: transparent;
+  height: 1686px;
+  left: 0px;
+  position: absolute;
+  top: 1128px;
+  width: 1440px;
+}
+
+.home .group-46-xrrBXU {
+  background-color: transparent;
+  height: 155px;
+  left: 0px;
+  position: absolute;
+  top: 1531px;
+  width: 1442px;
+}
+
+.home .rectangle-13-gEOwgV {
+  background-color: var(--madison);
+  height: 155px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.home .looking-to-get-you-contact-us-gEOwgV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 727px;
+}
+
+.home .span0-r02ZZb {
+}
+
+.home .span1-r02ZZb {
+  text-decoration: underline;
+}
+
+.home .group-44-xrrBXU {
+  background-color: transparent;
+  height: 551px;
+  left: 178px;
+  position: absolute;
+  top: 888px;
+  width: 525px;
+}
+
+.home .rectangle-14-YDA2fc {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 551px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 523px;
+}
+
+.home .instructional-technology-YDA2fc {
+  background-color: transparent;
+  height: 168px;
+  left: 162px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 198px;
+}
+
+.home .stakeholder-eng-pace-innovation-YDA2fc {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 254px;
+  width: 392px;
+}
+
+.home .group-28-YDA2fc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 107px;
+  pointer-events: auto;
+  position: absolute;
+  top: 449px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.home .group-28-YDA2fc:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-17-8oNdmy {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.home .see-our-news-and-reports-8oNdmy {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: 255px;
+}
+
+.home .group-43-xrrBXU {
+  background-color: transparent;
+  height: 567px;
+  left: 739px;
+  position: absolute;
+  top: 125px;
+  width: 525px;
+}
+
+.home .rectangle-11-AuQPpJ {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 567px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 523px;
+}
+
+.home .til-not-only-fo-ne-or-in-person-AuQPpJ {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 270px;
+  width: 392px;
+}
+
+.home .progress-AuQPpJ {
+  background-color: transparent;
+  height: 138px;
+  left: 155px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 211px;
+}
+
+.home .group-27-AuQPpJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 162px;
+  pointer-events: auto;
+  position: absolute;
+  top: 426px;
+  transition: all 0.2s ease;
+  width: 199px;
+}
+
+.home .group-27-AuQPpJ:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-15-tOiLxa {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 197px;
+}
+
+.home .our-approach-tOiLxa {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: 143px;
+}
+
+.home .group-42-xrrBXU {
+  background-color: transparent;
+  height: 718px;
+  left: 178px;
+  position: absolute;
+  top: 126px;
+  width: 525px;
+}
+
+.home .rectangle-10-vf3exG {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 718px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 523px;
+}
+
+.home .transforming-th-tments-at-uof-t-vf3exG {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 433px;
+  width: 391px;
+}
+
+.home .til-terrarium-1-vf3exG {
+  background-color: transparent;
+  height: 298px;
+  left: 177px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 169px;
+}
+
+.home .group-26-vf3exG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 180px;
+  pointer-events: auto;
+  position: absolute;
+  top: 561px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.home .group-26-vf3exG:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-16-COa1aK {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.home .about-us-COa1aK {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: 99px;
+}
+
+.home .group-41-xrrBXU {
+  background-color: transparent;
+  height: 707px;
+  left: 739px;
+  position: absolute;
+  top: 732px;
+  width: 525px;
+}
+
+.home .rectangle-12-Y2tkTk {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 707px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 523px;
+}
+
+.home .over-the-years-aching-at-uof-t-Y2tkTk {
+  background-color: transparent;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 394px;
+  width: 390px;
+}
+
+.home .til-classroom-in-amy-forsey2-Y2tkTk {
+  background-color: transparent;
+  height: 251px;
+  left: 141px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 242px;
+}
+
+.home .group-29-Y2tkTk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 109px;
+  pointer-events: auto;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.home .group-29-Y2tkTk:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-9-taYLnx {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.home .learn-about-our-initiatives-taYLnx {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: 263px;
+}
+
+.home .group-45-xrrBXU {
+  background-color: transparent;
+  height: 81px;
+  left: 298px;
+  position: absolute;
+  top: 0px;
+  width: 845px;
+}
+
+.home .line-1-0iBCZQ {
+  background-color: transparent;
+  height: 4px;
+  left: 291px;
+  position: absolute;
+  top: 79px;
+  width: 261px;
+}
+
+.home .transforming-th-l-landscape-til-0iBCZQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 0px;
+  width: 845px;
+}
+
+.home .vector-xl4bh6 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 22.92%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96.15%;
+  width: 3.89%;
+}
+
+.home .landing-page-4-xl4bh6 {
+  background-color: transparent;
+  height: 1222px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -99px;
+  width: 1440px;
+}
+
+.home .group-39-xl4bh6 {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: absolute;
+  top: 874px;
+  width: 1440px;
+}
+
+.home .rectangle-2-z3rYEL {
+  background-color: #e5e5e5;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.home .innovation-hub-icon-with-text-z3rYEL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 49px;
+  left: 828px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 248px;
+}
+
+.home .lsm-logo2021-z3rYEL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: 608px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 189px;
+}
+
+.home .vector-z3rYEL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44.00%;
+  left: 25.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28.00%;
+  width: 12.78%;
+}
+
+.home .group-20-xl4bh6 {
+  background-color: transparent;
+  height: 109px;
+  left: 802px;
+  position: absolute;
+  top: 534px;
+  width: 542px;
+}
+
+.home .title-AWfdLw {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.home .vector-AWfdLw {
+  background-color: transparent;
+  height: 26.23%;
+  left: 94.59%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 73.95%;
+  width: 5.07%;
+}
+
+.home .group-38-xl4bh6 {
+  background-color: transparent;
+  height: 3.09%;
+  left: 2.85%;
+  position: absolute;
+  top: 1.18%;
+  width: 17.78%;
+}
+
+.home .vector-bJmHuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64.45%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 58.98%;
+}
+
+.home .til2021-logo-1-1-bJmHuR {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 256px;
+}
+
+.home .about-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .about-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .home-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .home-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .initiatives-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .initiatives-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .classroom-redesign-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .classroom-redesign-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .news-and-reports-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .news-and-reports-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .group-21-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.home .group-21-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-9-qvCTow {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.home .contact-us-qvCTow {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
